@@ -75,4 +75,4 @@ Gratulerer! Da har du satt opp din VM
 
     ## Hvordan laster jeg opp et ISO bilde
 
-    For å laste opp et ISO bilde på proxmox må du først velge local (im) ![ligger under Datacenter/im på dropdown menyen på venstre side](bilder/pil-pek-pa-local-for-iso.png)<br> Så velger du ISO images<br>![du ser det i den nye menyen som kommer](bilder/pil-peke-pa-ISO-images.png)<br>Og til slutt velger du hvordan du ønsker å laste opp. Du kan legge ved en URL, eller laste opp fra enheten din <br>![Oversikt over det du ser](bilder/ISO-dasboard.png)
+    For å laste opp et ISO bilde på proxmox må du først velge local (im) <br>![ligger under Datacenter/im på dropdown menyen på venstre side](bilder/pil-pek-pa-local-for-iso.png)<br> Så velger du ISO images<br>![du ser det i den nye menyen som kommer](bilder/pil-peke-pa-ISO-images.png)<br>Og til slutt velger du hvordan du ønsker å laste opp. Du kan legge ved en URL, eller laste opp fra enheten din <br>![Oversikt over det du ser](bilder/ISO-dasboard.png)
